@@ -1,0 +1,12 @@
+Id: galcn10_ConsoleUpdateCenter
+Name: Console Update Center
+Author: galcn10
+Version: 1.0.0
+Module: ConsoleUpdateCenter.dll
+Type: GenericPlugin
+Icon: icon.png
+Links:
+  - Name: Source code
+    Url: https://github.com/galcn10/ConsoleUpdateCenter
+  - Name: Issues
+    Url: https://github.com/galcn10/ConsoleUpdateCenter/issues
